@@ -1,0 +1,14 @@
+h1{
+    font-family: "Bebas Neue"
+}
+hr {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+img{
+    float:left;
+    width:30%;
+    height:auto;
+    margin: 1.66%;
+}
